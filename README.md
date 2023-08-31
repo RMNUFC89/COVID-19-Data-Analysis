@@ -26,7 +26,7 @@ Throughout this project, I have showcased several key SQL skills, including:
 - Creating Views
 - Converting Data Types
 
-### Insights uncovered
+### Insights Uncovered
 The project utilized various SQL queries to uncover various insights. A few notable queries included:
 
 - Calculated the likelihood of dying after contracting COVID-19 by country.
