@@ -4,12 +4,12 @@
 
 This project involves an in-depth analysis of COVID-19 data using SQL. It explores two main datasets, namely COVID Deaths and COVID Vaccinations, which were sourced from [Our World in Data](https://ourworldindata.org/covid-deaths) and [Our World in Data](https://ourworldindata.org/covid-vaccinations). 
 
-### Data Sources
+## Data Sources
 
 - COVID Deaths Data: Sourced from [Our World in Data - COVID Deaths](https://ourworldindata.org/covid-deaths)
 - COVID Vaccinations Data: Sourced from [Our World in Data - COVID Vaccinations](https://ourworldindata.org/covid-vaccinations)
 
-### Skills Demonstrated
+## Skills Demonstrated
 
 Throughout this project, I have showcased several key SQL skills, including:
 
@@ -21,7 +21,7 @@ Throughout this project, I have showcased several key SQL skills, including:
 - Creating Views
 - Converting Data Types
 
-### Insights Uncovered
+## Insights Uncovered
 The project utilized various SQL queries to uncover various insights. A few notable queries included:
 
 - Calculated the likelihood of dying after contracting COVID-19 by country.
