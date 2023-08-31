@@ -2,11 +2,6 @@
 
 ## Project Overview
 
-**Project Name:** COVID-19 Data Analysis  
-**GitHub Repository:** [Link](https://github.com/YourUsername/COVID-19-Data-Analysis)
-
-### What is this project?
-
 This project involves an in-depth analysis of COVID-19 data using SQL. It explores two main datasets, namely COVID Deaths and COVID Vaccinations, which were sourced from [Our World in Data](https://ourworldindata.org/covid-deaths) and [Our World in Data](https://ourworldindata.org/covid-vaccinations). 
 
 ### Data Sources
